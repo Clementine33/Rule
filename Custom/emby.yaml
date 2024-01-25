@@ -1,0 +1,3 @@
+payload:
+    - DOMAIN-SUFFIX,prisms.cc
+    - IP-CIDR,146.19.215.216/24,no-resolve
