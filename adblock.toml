@@ -1,16 +1,469 @@
 version = 1
+
 [custom]
 enable_rule_generator = true
 overwrite_original_rules = true
 skip_failed_links = true
-
 #Exclude nodes which remarks match the following patterns. Supports regular expression.
 exclude_remarks = [
     "(IPV6|重置|流量|用户|本站|漏洞|永久虚通路|车|邀|免翻|邀请|eevpn|域名|机场|刷新|禁止|备用登录|计划|面板|忘记|到期|套餐|官网|更多|关注|25倍率|http|增加|持续|渠道|购买|QQ|Ins|二手)",
 ]
 
-[[custom_groups]]
-import = "https://raw.githubusercontent.com/Clementine33/Rule/toml/group_adblock.toml"
+[[rulesets]]
+group = "🎯 国内流量"
+ruleset = "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list"
 
 [[rulesets]]
-import = "https://raw.githubusercontent.com/Clementine33/Rule/toml/ruleset_adblock.toml"
+group = "🎯 国内流量"
+ruleset = "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list"
+
+[[rulesets]]
+group = "🛑 广告拦截"
+ruleset = "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AdvertisingLite/AdvertisingLite.list"
+
+[[rulesets]]
+group = "🛡️ 隐私防护"
+ruleset = "clash-classic:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Privacy/Privacy_Classical.yaml"
+
+[[rulesets]]
+group = "📢 谷歌FCM"
+ruleset = "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/GoogleFCM.list"
+
+[[rulesets]]
+group = "🎯 国内流量"
+ruleset = "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GoogleCN.list"
+
+[[rulesets]]
+group = "🎯 国内流量"
+ruleset = "clash-classic:https://raw.githubusercontent.com/Clementine33/Rule/main/Custom/direct.yaml"
+
+[[rulesets]]
+group = "🚩 社交平台IP归属地"
+ruleset = "clash-classic:https://raw.githubusercontent.com/lwd-temp/anti-ip-attribution/main/generated/rule-provider.yaml"
+
+[[rulesets]]
+group = "💬 OpenAi"
+ruleset = "clash-classic:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/OpenAI/OpenAI.yaml"
+
+[[rulesets]]
+group = "🕹️ 游戏下载"
+ruleset = "clash-classic:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Game/GameDownload/GameDownload.yaml"
+
+[[rulesets]]
+group = "🎮 游戏平台"
+ruleset = "clash-classic:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Game/Game.yaml"
+
+[[rulesets]]
+group = "Ⓜ️ 微软云盘"
+ruleset = "clash-classic:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/OneDrive/OneDrive.yaml"
+
+[[rulesets]]
+group = "Ⓜ️ 微软服务"
+ruleset = "clash-classic:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Microsoft/Microsoft.yaml"
+
+[[rulesets]]
+group = "🍎 苹果服务"
+ruleset = "clash-classic:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Apple/Apple.yaml"
+
+[[rulesets]]
+group = "📲 Telegram"
+ruleset = "clash-classic:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Telegram/Telegram.yaml"
+
+[[rulesets]]
+group = "📹 YouTube"
+ruleset = "clash-classic:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/YouTube/YouTube.yaml"
+
+[[rulesets]]
+group = "🎥 Netflix"
+ruleset = "clash-classic:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Netflix/Netflix.yaml"
+
+[[rulesets]]
+group = "🎬 EMBY"
+ruleset = "clash-classic:https://raw.githubusercontent.com/Clementine33/Rule/main/Custom/emby.yaml"
+
+[[rulesets]]
+group = "🎬 EMBY"
+ruleset = "clash-classic:https://raw.githubusercontent.com/cutethotw/ClashRule/main/Rule/Emby.yaml"
+
+[[rulesets]]
+group = "🎬 EMBY"
+ruleset = "clash-classic:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Emby/Emby.yaml"
+
+[[rulesets]]
+group = "📺 Bilibili"
+ruleset = "clash-classic:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BiliBiliIntl/BiliBiliIntl.yaml"
+
+[[rulesets]]
+group = "📺 Bilibili"
+ruleset = "clash-classic:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BiliBili/BiliBili.yaml"
+
+[[rulesets]]
+group = "📺 巴哈姆特"
+ruleset = "clash-classic:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Bahamut/Bahamut.yaml"
+
+[[rulesets]]
+group = "🎵 Spotify"
+ruleset = "clash-classic:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Spotify/Spotify.yaml"
+
+[[rulesets]]
+group = "🎵 TikTok"
+ruleset = "clash-classic:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/TikTok/TikTok.yaml"
+
+[[rulesets]]
+group = "🐼 EHGallery"
+ruleset = "clash-classic:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/EHGallery/EHGallery.yaml"
+
+[[rulesets]]
+group = "🌍 国外媒体"
+ruleset = "clash-classic:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GlobalMedia/GlobalMedia.yaml"
+
+[[rulesets]]
+group = "🌏 国内媒体"
+ruleset = "clash-classic:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaMedia/ChinaMedia.yaml"
+
+# [[rulesets]]
+# group = "🚀 国外流量"
+# ruleset = "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyGFWlist.list"
+[[rulesets]]
+group = "🚀 国外流量"
+ruleset = "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Proxy/Proxy.list"
+
+[[rulesets]]
+group = "🎯 国内流量"
+ruleset = "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list"
+
+[[rulesets]]
+group = "🎯 国内流量"
+ruleset = "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list"
+
+[[rulesets]]
+group = "🎯 国内流量"
+ruleset = "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Download.list"
+
+[[rulesets]]
+group = "🎯 国内流量"
+ruleset = "clash-ipcidr:https://cdn.jsdelivr.net/gh/soffchen/GeoIP2-CN@release/clash-rule-provider.yml"
+
+[[rulesets]]
+group = "🐟 漏网之鱼"
+ruleset = "[]FINAL"
+
+[[custom_groups]]
+name = "🚀 国外流量"
+type = "select"
+rules = [
+    "[]🚀 手动选择1",
+    "[]🚀 手动选择2",
+    "[]✈️ 低倍率节点",
+    "[]🇸🇬 新加坡节点",
+    "[]🇭🇰 香港节点",
+    "[]🇹🇼 台湾节点",
+    "[]🇯🇵 日本节点",
+    "[]🇺🇸 美国节点",
+    "[]DIRECT",
+]
+
+[[custom_groups]]
+name = "🚀 手动选择1"
+type = "select"
+rules = ["[].*"]
+
+[[custom_groups]]
+name = "🚀 手动选择2"
+type = "select"
+rules = ["[].*"]
+
+[[custom_groups]]
+name = "✈️ 低倍率节点"
+type = "select"
+rules = ["(0\\.\\d)", "((?i)media)"]
+
+# [[custom_groups]]
+# name = "⚖️ 负载均衡-散列"
+# type = "load-balance"
+# url = "http://www.gstatic.com/generate_204"
+# interval = 300
+# strategy = "consistent-hashing"
+# rules = ["(0\.\d)", "((?i)media)"]
+[[custom_groups]]
+name = "🐟 漏网之鱼"
+type = "select"
+rules = [
+    "[]🚀 国外流量",
+    "[]🎯 国内流量",
+    "[]🚀 手动选择1",
+    "[]🚀 手动选择2",
+    "[]✈️ 低倍率节点",
+    "[]⚖️ 负载均衡-散列",
+]
+
+[[custom_groups]]
+name = "🚩 社交平台IP归属地"
+type = "select"
+rules = [
+    "[]🎯 国内流量",
+    "[]🚀 国外流量",
+    "[]🇯🇵 日本节点",
+    "[]🇺🇸 美国节点",
+    "[]🚀 手动选择1",
+    "[]🚀 手动选择2",
+]
+
+[[custom_groups]]
+name = "🎮 游戏平台"
+type = "select"
+rules = [
+    "[]🚀 国外流量",
+    "[]🎯 国内流量",
+    "(?i)^(?!.*(media)).*(🇭🇰|港|HK|Hong Kong).*$",
+    "(?i)^(?!.*(media)).*(🇹🇼|台|TW|Taiwan).*$",
+    "(?i)^(?!.*(media)).*(🇸🇬|新加坡|狮城|SG|Singapore).*$",
+    "(?i)^(?!.*(media)).*(🇺🇸|美|US|United States).*$",
+    "(?i)^(?!.*(media)).*(🇯🇵|[^-]日(?!用|利亚)|JP|Japan).*$",
+    "[]🚀 手动选择1",
+    "[]🚀 手动选择2",
+]
+
+[[custom_groups]]
+name = "🐼 EHGallery"
+type = "select"
+rules = [
+    "[]🚀 国外流量",
+    "[]🎯 国内流量",
+    "(🇭🇰|港|HK|Hong Kong)",
+    "(🇹🇼|台|TW|Taiwan)",
+    "(🇸🇬|新加坡|狮城|SG|Singapore)",
+    "[]🚀 手动选择1",
+    "[]🚀 手动选择2",
+]
+
+[[custom_groups]]
+name = "🎵 TikTok"
+type = "select"
+rules = [
+    "[]🚀 国外流量",
+    "[]🎯 国内流量",
+    "[]🇸🇬 新加坡节点",
+    "[]🇭🇰 香港节点",
+    "[]🇹🇼 台湾节点",
+    "[]🇯🇵 日本节点",
+    "[]🇺🇸 美国节点",
+    "[]🚀 手动选择1",
+    "[]🚀 手动选择2",
+]
+
+[[custom_groups]]
+name = "🎬 EMBY"
+type = "select"
+rules = [
+    "[]🚀 国外流量",
+    "[]🎯 国内流量",
+    "[]🚀 手动选择1",
+    "[]🚀 手动选择2",
+    "[]✈️ 低倍率节点"
+]
+
+[[custom_groups]]
+name = "📹 YouTube"
+type = "select"
+rules = [
+    "[]🚀 国外流量",
+    "[]🎯 国内流量",
+    "[]🇸🇬 新加坡节点",
+    "[]🇭🇰 香港节点",
+    "[]🇹🇼 台湾节点",
+    "[]🇯🇵 日本节点",
+    "[]🇺🇸 美国节点",
+    "[]🚀 手动选择1",
+    "[]🚀 手动选择2",
+    "[]✈️ 低倍率节点",
+]
+
+[[custom_groups]]
+name = "🎥 Netflix"
+type = "select"
+rules = [
+    "[]🚀 国外流量",
+    "[]🎯 国内流量",
+    "[]🇸🇬 新加坡节点",
+    "[]🇭🇰 香港节点",
+    "[]🇹🇼 台湾节点",
+    "[]🇯🇵 日本节点",
+    "[]🇺🇸 美国节点",
+    "[]🚀 手动选择1",
+    "[]🚀 手动选择2",
+    "[]✈️ 低倍率节点",
+]
+
+[[custom_groups]]
+name = "📺 Bilibili"
+type = "select"
+rules = [
+    "[]🎯 国内流量",
+    "[]🇭🇰 香港节点",
+    "[]🇹🇼 台湾节点",
+    "(澳门|MO|🇲🇴)",
+    "[]🚀 手动选择1",
+    "[]🚀 手动选择2",
+]
+
+[[custom_groups]]
+name = "📺 巴哈姆特"
+type = "select"
+rules = ["[]🇹🇼 台湾节点", "[]🚀 手动选择1", "[]🚀 手动选择2"]
+
+[[custom_groups]]
+name = "🎵 Spotify"
+type = "select"
+rules = [
+    "[]🎯 国内流量",
+    "[]🚀 国外流量",
+    "(菲律宾|PH)",
+    "(巴基斯坦|PK)",
+    "(土耳其|TR|Turkey)",
+    "(尼日利亚|NG)",
+    "[]🚀 手动选择1",
+    "[]🚀 手动选择2",
+    "[]✈️ 低倍率节点",
+]
+
+[[custom_groups]]
+name = "📲 Telegram"
+type = "select"
+rules = [
+    "[]🚀 国外流量",
+    "[]🇸🇬 新加坡节点",
+    "[]🇭🇰 香港节点",
+    "[]🇹🇼 台湾节点",
+    "[]🇯🇵 日本节点",
+    "[]🇺🇸 美国节点",
+    "[]🚀 手动选择1",
+    "[]🚀 手动选择2",
+    "[]✈️ 低倍率节点",
+]
+
+[[custom_groups]]
+name = "💬 OpenAi"
+type = "select"
+rules = [
+    "[]🇺🇸 美国节点",
+    "[]🇸🇬 新加坡节点",
+    "[]🇹🇼 台湾节点",
+    "[]🇯🇵 日本节点",
+    "[]🚀 国外流量",
+    "[]🎯 国内流量",
+    "[]🚀 手动选择1",
+    "[]🚀 手动选择2",
+]
+
+[[custom_groups]]
+name = "Ⓜ️ 微软云盘"
+type = "select"
+rules = [
+    "[]🎯 国内流量",
+    "[]🚀 国外流量",
+    "[]🚀 手动选择1",
+    "[]🚀 手动选择2",
+    "[]✈️ 低倍率节点"
+]
+
+[[custom_groups]]
+name = "Ⓜ️ 微软服务"
+type = "select"
+rules = ["[]🚀 国外流量", "[]🎯 国内流量", "[]🚀 手动选择1", "[]🚀 手动选择2"]
+
+[[custom_groups]]
+name = "🍎 苹果服务"
+type = "select"
+rules = ["[]🎯 国内流量", "[]🚀 国外流量", "[]🚀 手动选择1", "[]🚀 手动选择2"]
+
+[[custom_groups]]
+name = "📢 谷歌FCM"
+type = "select"
+rules = ["[]🚀 国外流量", "[]🎯 国内流量", "[]🚀 手动选择1", "[]🚀 手动选择2"]
+
+[[custom_groups]]
+name = "🌍 国外媒体"
+type = "select"
+rules = [
+    "[]🚀 国外流量",
+    "[]🎯 国内流量",
+    "[]🚀 手动选择1",
+    "[]🚀 手动选择2",
+    "[]✈️ 低倍率节点"
+]
+
+[[custom_groups]]
+name = "🌏 国内媒体"
+type = "select"
+rules = ["[]🎯 国内流量", "[]🚀 手动选择1", "[]🚀 手动选择2"]
+
+[[custom_groups]]
+name = "🕹️ 游戏下载"
+type = "select"
+rules = [
+    "[]🎯 国内流量",
+    "[]🚀 国外流量",
+    "[]🚀 手动选择1",
+    "[]🚀 手动选择2",
+    "[]✈️ 低倍率节点"
+]
+
+[[custom_groups]]
+name = "🎯 国内流量"
+type = "select"
+rules = ["[]DIRECT", "[]🚀 手动选择1", "[]🚀 手动选择2"]
+
+[[custom_groups]]
+name = "🛑 广告拦截"
+type = "select"
+rules = ["[]REJECT", "[]DIRECT", "[]🚀 手动选择1", "[]🚀 手动选择2"]
+
+[[custom_groups]]
+name = "🛡️ 隐私防护"
+type = "select"
+rules = ["[]REJECT", "[]DIRECT", "[]🚀 手动选择1", "[]🚀 手动选择2"]
+
+[[custom_groups]]
+name = "🇸🇬 新加坡节点"
+type = "url-test"
+rules = ["!!GROUPID=0!!(🇸🇬|新加坡|坡|狮城|SG|Singapore)"]
+url = "http://www.gstatic.com/generate_204"
+interval = 300
+tolerance = 50
+
+[[custom_groups]]
+name = "🇭🇰 香港节点"
+type = "url-test"
+rules = ["!!GROUPID=0!!(🇭🇰|港|HK|Hong Kong)"]
+url = "http://www.gstatic.com/generate_204"
+interval = 300
+tolerance = 50
+
+[[custom_groups]]
+name = "🇹🇼 台湾节点"
+type = "url-test"
+rules = ["!!GROUPID=0!!(🇹🇼|台|新北|彰化|TW|Taiwan)"]
+url = "http://www.gstatic.com/generate_204"
+interval = 300
+tolerance = 50
+
+[[custom_groups]]
+name = "🇯🇵 日本节点"
+type = "url-test"
+rules = [
+    "!!GROUPID=0!!(🇯🇵|日本|川日|东京|大阪|泉日|埼玉|沪日|深日|[^-]日(?!用|利亚)|JP|Japan)"
+]
+url = "http://www.gstatic.com/generate_204"
+interval = 300
+tolerance = 50
+
+[[custom_groups]]
+name = "🇺🇸 美国节点"
+type = "url-test"
+rules = [
+    "!!GROUPID=0!!(🇺🇸|美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|United States)",
+]
+url = "http://www.gstatic.com/generate_204"
+interval = 300
+tolerance = 150
