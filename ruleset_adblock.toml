@@ -1,0 +1,138 @@
+[[rulesets]]
+group = "🎯 国内流量"
+ruleset = "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list"
+
+[[rulesets]]
+group = "🎯 国内流量"
+ruleset = "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list"
+
+[[rulesets]]
+group = "🛑 广告拦截"
+ruleset = "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AdvertisingLite/AdvertisingLite.list"
+
+[[rulesets]]
+group = "🛡️ 隐私防护"
+ruleset = "clash-classic:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Privacy/Privacy_Classical.yaml"
+
+[[rulesets]]
+group = "📢 谷歌FCM"
+ruleset = "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/GoogleFCM.list"
+
+[[rulesets]]
+group = "🎯 国内流量"
+ruleset = "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GoogleCN.list"
+
+[[rulesets]]
+group = "🎯 国内流量"
+ruleset = "clash-classic:https://raw.githubusercontent.com/Clementine33/Rule/main/Custom/direct.yaml"
+
+[[rulesets]]
+group = "🚩 社交平台IP归属地"
+ruleset = "clash-classic:https://raw.githubusercontent.com/lwd-temp/anti-ip-attribution/main/generated/rule-provider.yaml"
+
+[[rulesets]]
+group = "💬 OpenAi"
+ruleset = "clash-classic:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/OpenAI/OpenAI.yaml"
+
+[[rulesets]]
+group = "🕹️ 游戏下载"
+ruleset = "clash-classic:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Game/GameDownload/GameDownload.yaml"
+
+[[rulesets]]
+group = "🎮 游戏平台"
+ruleset = "clash-classic:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Game/Game.yaml"
+
+[[rulesets]]
+group = "Ⓜ️ 微软云盘"
+ruleset = "clash-classic:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/OneDrive/OneDrive.yaml"
+
+[[rulesets]]
+group = "Ⓜ️ 微软服务"
+ruleset = "clash-classic:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Microsoft/Microsoft.yaml"
+
+[[rulesets]]
+group = "🍎 苹果服务"
+ruleset = "clash-classic:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Apple/Apple.yaml"
+
+[[rulesets]]
+group = "📲 Telegram"
+ruleset = "clash-classic:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Telegram/Telegram.yaml"
+
+[[rulesets]]
+group = "📹 YouTube"
+ruleset = "clash-classic:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/YouTube/YouTube.yaml"
+
+[[rulesets]]
+group = "🎥 Netflix"
+ruleset = "clash-classic:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Netflix/Netflix.yaml"
+
+[[rulesets]]
+group = "🎬 EMBY"
+ruleset = "clash-classic:https://raw.githubusercontent.com/Clementine33/Rule/main/Custom/emby.yaml"
+
+[[rulesets]]
+group = "🎬 EMBY"
+ruleset = "clash-classic:https://raw.githubusercontent.com/cutethotw/ClashRule/main/Rule/Emby.yaml"
+
+[[rulesets]]
+group = "🎬 EMBY"
+ruleset = "clash-classic:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Emby/Emby.yaml"
+
+[[rulesets]]
+group = "📺 Bilibili"
+ruleset = "clash-classic:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BiliBiliIntl/BiliBiliIntl.yaml"
+
+[[rulesets]]
+group = "📺 Bilibili"
+ruleset = "clash-classic:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BiliBili/BiliBili.yaml"
+
+[[rulesets]]
+group = "📺 巴哈姆特"
+ruleset = "clash-classic:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Bahamut/Bahamut.yaml"
+
+[[rulesets]]
+group = "🎵 Spotify"
+ruleset = "clash-classic:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Spotify/Spotify.yaml"
+
+[[rulesets]]
+group = "🎵 TikTok"
+ruleset = "clash-classic:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/TikTok/TikTok.yaml"
+
+[[rulesets]]
+group = "🐼 EHGallery"
+ruleset = "clash-classic:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/EHGallery/EHGallery.yaml"
+
+[[rulesets]]
+group = "🌍 国外媒体"
+ruleset = "clash-classic:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GlobalMedia/GlobalMedia.yaml"
+
+[[rulesets]]
+group = "🌏 国内媒体"
+ruleset = "clash-classic:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaMedia/ChinaMedia.yaml"
+
+# [[rulesets]]
+# group = "🚀 国外流量"
+# ruleset = "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyGFWlist.list"
+[[rulesets]]
+group = "🚀 国外流量"
+ruleset = "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Proxy/Proxy.list"
+
+[[rulesets]]
+group = "🎯 国内流量"
+ruleset = "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list"
+
+[[rulesets]]
+group = "🎯 国内流量"
+ruleset = "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list"
+
+[[rulesets]]
+group = "🎯 国内流量"
+ruleset = "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Download.list"
+
+[[rulesets]]
+group = "🎯 国内流量"
+ruleset = "clash-ipcidr:https://cdn.jsdelivr.net/gh/soffchen/GeoIP2-CN@release/clash-rule-provider.yml"
+
+[[rulesets]]
+group = "🐟 漏网之鱼"
+ruleset = "[]FINAL"
