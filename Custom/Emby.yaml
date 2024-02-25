@@ -2,4 +2,4 @@ payload:
     - DOMAIN-SUFFIX,aca.best
     - DOMAIN-SUFFIX,misakaf.org
     - DOMAIN-SUFFIX,prisms.cc
-    - IP-CIDR,146.19.215.216/24
+    - IP-CIDR,146.19.215.216/24,no-resolve
