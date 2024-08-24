@@ -48,6 +48,7 @@ agora: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data
 aiqicha: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/aiqicha
 airchina: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/airchina
 airwick: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/airwick
+aisiku: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/aisiku
 aixcoder: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/aixcoder
 akamai: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/akamai
 ali213: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/ali213
@@ -229,12 +230,14 @@ category-news-ir: https://raw.githubusercontent.com/v2fly/domain-list-community/
 category-novel: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/category-novel
 category-ntp: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/category-ntp
 category-ntp-cn: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/category-ntp-cn
+category-ntp-jp: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/category-ntp-jp
 category-orgs: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/category-orgs
 category-payment-ir: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/category-payment-ir
 category-porn: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/category-porn
 category-pt: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/category-pt
 category-public-tracker: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/category-public-tracker
 category-remote-control: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/category-remote-control
+category-ru: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/category-ru
 category-scholar-!cn: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/category-scholar-!cn
 category-scholar-cn: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/category-scholar-cn
 category-scholar-ir: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/category-scholar-ir
@@ -244,6 +247,7 @@ category-social-media-!cn: https://raw.githubusercontent.com/v2fly/domain-list-c
 category-social-media-cn: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/category-social-media-cn
 category-social-media-ir: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/category-social-media-ir
 category-tech-ir: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/category-tech-ir
+category-tech-media: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/category-tech-media
 category-travel-ir: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/category-travel-ir
 category-vpnservices: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/category-vpnservices
 category-wiki-cn: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/category-wiki-cn
@@ -295,6 +299,7 @@ cnet: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/
 cnki: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/cnki
 cnn: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/cnn
 code: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/code
+codeberg: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/codeberg
 codecademy: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/codecademy
 codeforces: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/codeforces
 coding: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/coding
@@ -304,6 +309,7 @@ colorfulclouds: https://raw.githubusercontent.com/v2fly/domain-list-community/ma
 comodo: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/comodo
 contentful: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/contentful
 coolapk: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/coolapk
+corel: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/corel
 costco: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/costco
 coupang: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/coupang
 coursera: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/coursera
@@ -427,6 +433,7 @@ fastly: https://raw.githubusercontent.com/v2fly/domain-list-community/master/dat
 faststone: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/faststone
 fedora: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/fedora
 feedly: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/feedly
+feishu: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/feishu
 fengxing: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/fengxing
 fflogs: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/fflogs
 figma: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/figma
@@ -485,6 +492,7 @@ golang: https://raw.githubusercontent.com/v2fly/domain-list-community/master/dat
 goodreads: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/goodreads
 google: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/google
 google-ads: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/google-ads
+google-gemini: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/google-gemini
 google-registry: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/google-registry
 google-registry-tld: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/google-registry-tld
 google-scholar: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/google-scholar
@@ -499,6 +507,7 @@ gucci: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data
 guo: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/guo
 guokr: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/guokr
 hacpai: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/hacpai
+haier: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/haier
 hainanairlines: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/hainanairlines
 hamivideo: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/hamivideo
 hanyi: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/hanyi
@@ -534,6 +543,8 @@ hotjar-ads: https://raw.githubusercontent.com/v2fly/domain-list-community/master
 hotstar: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/hotstar
 hoyoverse: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/hoyoverse
 hp: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/hp
+hsbc: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/hsbc
+hsbc-cn: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/hsbc-cn
 huanghuagang: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/huanghuagang
 huawei: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/huawei
 huawei-dev: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/huawei-dev
@@ -545,6 +556,7 @@ hulu: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/
 hunantv-ads: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/hunantv-ads
 huobi: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/huobi
 hupu: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/hupu
+hupun: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/hupun
 hurricaneelectric: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/hurricaneelectric
 huya: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/huya
 ibm: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/ibm
@@ -626,6 +638,7 @@ kechuang: https://raw.githubusercontent.com/v2fly/domain-list-community/master/d
 keep: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/keep
 kemono: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/kemono
 kernel: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/kernel
+keybase: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/keybase
 khanacademy: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/khanacademy
 kindle: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/kindle
 kindle4rss: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/kindle4rss
@@ -644,8 +657,10 @@ kuaishou-ads: https://raw.githubusercontent.com/v2fly/domain-list-community/mast
 kuaiyikeji: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/kuaiyikeji
 kubakuba: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/kubakuba
 kubernetes: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/kubernetes
+kucoin: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/kucoin
 kugou: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/kugou
 kugou-ads: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/kugou-ads
+kurogames: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/kurogames
 kyodonews: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/kyodonews
 lagou: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/lagou
 landian: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/landian
@@ -653,6 +668,7 @@ lantern: https://raw.githubusercontent.com/v2fly/domain-list-community/master/da
 lanzou: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/lanzou
 laracasts: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/laracasts
 lark: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/lark
+lark-global: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/lark-global
 lastfm: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/lastfm
 launchpad: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/launchpad
 lavteam: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/lavteam
@@ -671,6 +687,7 @@ liepin: https://raw.githubusercontent.com/v2fly/domain-list-community/master/dat
 lifewire: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/lifewire
 lihkg: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/lihkg
 limelight: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/limelight
+linakesi: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/linakesi
 line: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/line
 linguee: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/linguee
 linkedin: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/linkedin
@@ -684,6 +701,7 @@ localbitcoins: https://raw.githubusercontent.com/v2fly/domain-list-community/mas
 localizejs: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/localizejs
 logitech: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/logitech
 londonreal: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/londonreal
+longbridge: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/longbridge
 lowiro: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/lowiro
 ltn: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/ltn
 lysol: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/lysol
@@ -902,6 +920,7 @@ quantil: https://raw.githubusercontent.com/v2fly/domain-list-community/master/da
 quip: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/quip
 quora: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/quora
 qwant: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/qwant
+qweather: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/qweather
 qyyjt: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/qyyjt
 rakuten: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/rakuten
 rarbg: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/rarbg
@@ -975,6 +994,7 @@ sinopec: https://raw.githubusercontent.com/v2fly/domain-list-community/master/da
 sitepoint: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/sitepoint
 skillshare: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/skillshare
 sky: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/sky
+skyperfect: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/skyperfect
 slack: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/slack
 slideshare: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/slideshare
 sling: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/sling
@@ -1182,6 +1202,7 @@ windy: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data
 wise: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/wise
 wisekey: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/wisekey
 wish: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/wish
+wistia: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/wistia
 wiwide: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/wiwide
 wix: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/wix
 wjx: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/wjx
@@ -1192,6 +1213,7 @@ wps: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/w
 wsj: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/wsj
 wteam-ads: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/wteam-ads
 wwe: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/wwe
+wynd: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/wynd
 x: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/x
 x315: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/x315
 xai: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/xai
@@ -1230,6 +1252,7 @@ youporn: https://raw.githubusercontent.com/v2fly/domain-list-community/master/da
 youquan: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/youquan
 youtube: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/youtube
 youzan: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/youzan
+yuanbei: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/yuanbei
 yuanfudao: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/yuanfudao
 yuewen: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/yuewen
 yuketang: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/yuketang
