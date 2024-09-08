@@ -1,4 +1,8 @@
 payload:
   - '+.kiko-play-niptan.one'
   - '+.huggingface.co'
+  - 'objects.githubusercontent.com'
+  - 'repo.anaconda.com'
+  - 'pypi.org'
   - '+.r2.cloudflarestorage.com'
+  - '+.s3.amazonaws.com'
