@@ -7,3 +7,4 @@ payload:
   - 'pypi.org'
   - '+.r2.cloudflarestorage.com'
   - '+.s3.amazonaws.com'
+  - 'tousakaworker.pua.edu.eu.org'
