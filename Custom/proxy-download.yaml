@@ -4,6 +4,7 @@ payload:
   - '+.huggingface.co'
   - 'objects.githubusercontent.com'
   - 'repo.anaconda.com'
+  - 'prod-clientpatch.bluearchiveyostar.com'
   - 'pypi.org'
   - '+.r2.cloudflarestorage.com'
   - '+.s3.amazonaws.com'
