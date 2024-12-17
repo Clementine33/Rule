@@ -1,4 +1,6 @@
 payload:
+  - 'drive.google.com'
+  - 'drive.usercontent.google.com'
   - '+.kiko-play-niptan.one'
   - '+.gofile.io'
   - '+.huggingface.co'
