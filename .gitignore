@@ -1,1 +1,8 @@
+.python-version
+.venv\
 geo_query.py
+query.py
+pyproject.toml
+requirements*
+
+
