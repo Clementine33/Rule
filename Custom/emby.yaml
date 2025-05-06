@@ -1,7 +1,8 @@
 payload:
-  - '+.aca.best'
+  # - '+.aca.best'
   - '+.as174.de'
   - '+.bili.rip'
   - '+.emby.moe'
-  - '+.misakaf.org'
-  - '+.prisms.cc'
+  # - '+.misakaf.org'
+  # - '+.prisms.cc'
+  - 'emby.cn2gias.uk'
