@@ -5,4 +5,4 @@ query.py
 pyproject.toml
 requirements*
 sort-yaml.py
-
+*.lock
