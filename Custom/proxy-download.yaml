@@ -1,9 +1,13 @@
 payload:
   - '+.gofile.io'
   - '+.huggingface.co'
+  - '+.imoutoheaven.org'
   - '+.kiko-play-niptan.one'
+  - '+.lokernyaindo.eu.org'
   - '+.r2.cloudflarestorage.com'
   - '+.s3.amazonaws.com'
+  - 'bacon.bunkr.ru'
+  - 'download.pytorch.org'
   - 'drive.google.com'
   - 'drive.usercontent.google.com'
   - 'objects.githubusercontent.com'
