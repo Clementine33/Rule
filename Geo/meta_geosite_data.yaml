@@ -18,6 +18,7 @@
 5ch: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/5ch.yaml
 6park: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/6park.yaml
 75team: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/75team.yaml
+800best: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/800best.yaml
 8btc: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/8btc.yaml
 928plus: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/928plus.yaml
 9news: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/9news.yaml
@@ -55,6 +56,7 @@ aerogard: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/ge
 aerogard@cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/aerogard@cn.yaml
 afdian: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/afdian.yaml
 afp: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/afp.yaml
+agilebits: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/agilebits.yaml
 agora: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/agora.yaml
 aiqicha: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/aiqicha.yaml
 airchina: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/airchina.yaml
@@ -113,6 +115,7 @@ apple-dev@cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/ge
 apple-intelligence: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/apple-intelligence.yaml
 apple-pki: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/apple-pki.yaml
 apple-pki@cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/apple-pki@cn.yaml
+apple-tvplus: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/apple-tvplus.yaml
 apple-update: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/apple-update.yaml
 apple@ads: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/apple@ads.yaml
 apple@cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/apple@cn.yaml
@@ -127,6 +130,7 @@ archlinux: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/g
 arphic: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/arphic.yaml
 artstation: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/artstation.yaml
 asahi: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/asahi.yaml
+asobo: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/asobo.yaml
 asproex: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/asproex.yaml
 asus: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/asus.yaml
 asus@cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/asus@cn.yaml
@@ -165,6 +169,7 @@ bcy: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite
 bdsmhub: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/bdsmhub.yaml
 beats: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/beats.yaml
 beats@cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/beats@cn.yaml
+beisen: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/beisen.yaml
 bestbuy: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/bestbuy.yaml
 bestbuy@cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/bestbuy@cn.yaml
 bestore: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/bestore.yaml
@@ -222,6 +227,8 @@ bridgestone: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo
 bridgestone@cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/bridgestone@cn.yaml
 brightcove: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/brightcove.yaml
 brilliant: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/brilliant.yaml
+broadcom: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/broadcom.yaml
+broadcom@cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/broadcom@cn.yaml
 btdig: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/btdig.yaml
 bttzyw: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/bttzyw.yaml
 buymeacoffee: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/buymeacoffee.yaml
@@ -235,6 +242,7 @@ bytedance@ads: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/g
 bytedance@cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/bytedance@cn.yaml
 c-span: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/c-span.yaml
 cabletv: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cabletv.yaml
+cainiao: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cainiao.yaml
 calgoncarbon: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/calgoncarbon.yaml
 calgoncarbon@cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/calgoncarbon@cn.yaml
 cambridge: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cambridge.yaml
@@ -252,6 +260,8 @@ category-ads-all: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/met
 category-ads-all@ads: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-ads-all@ads.yaml
 category-ads-ir: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-ads-ir.yaml
 category-ads@ads: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-ads@ads.yaml
+category-ai-!cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-ai-!cn.yaml
+category-ai-!cn@ads: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-ai-!cn@ads.yaml
 category-ai-chat-!cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-ai-chat-!cn.yaml
 category-ai-chat-!cn@ads: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-ai-chat-!cn@ads.yaml
 category-ai-cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-ai-cn.yaml
@@ -289,6 +299,8 @@ category-ecommerce@ads: https://raw.githubusercontent.com/MetaCubeX/meta-rules-d
 category-ecommerce@cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-ecommerce@cn.yaml
 category-education-cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-education-cn.yaml
 category-education-ir: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-education-ir.yaml
+category-electronic-cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-electronic-cn.yaml
+category-emby: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-emby.yaml
 category-enhance-gaming: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-enhance-gaming.yaml
 category-enhance-gaming@cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-enhance-gaming@cn.yaml
 category-enterprise-query-platform-cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-enterprise-query-platform-cn.yaml
@@ -306,7 +318,14 @@ category-food-cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/met
 category-forums: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-forums.yaml
 category-forums-ir: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-forums-ir.yaml
 category-game-accelerator-cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-game-accelerator-cn.yaml
+category-game-platforms-download: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-game-platforms-download.yaml
+category-game-platforms-download@cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-game-platforms-download@cn.yaml
 category-games: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-games.yaml
+category-games-!cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-games-!cn.yaml
+category-games-!cn@cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-games-!cn@cn.yaml
+category-games-cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-games-cn.yaml
+category-games-cn@!cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-games-cn@!cn.yaml
+category-games-cn@cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-games-cn@cn.yaml
 category-games@!cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-games@!cn.yaml
 category-games@cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-games@cn.yaml
 category-gov-ir: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-gov-ir.yaml
@@ -317,10 +336,12 @@ category-httpdns-cn@ads: https://raw.githubusercontent.com/MetaCubeX/meta-rules-
 category-insurance-ir: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-insurance-ir.yaml
 category-ipfs: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-ipfs.yaml
 category-ir: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-ir.yaml
+category-logistics-cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-logistics-cn.yaml
 category-media: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-media.yaml
 category-media-cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-media-cn.yaml
 category-media-cn@ads: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-media-cn@ads.yaml
 category-media-ir: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-media-ir.yaml
+category-media-ru: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-media-ru.yaml
 category-media@cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-media@cn.yaml
 category-mobile-repair: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-mobile-repair.yaml
 category-mooc-cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-mooc-cn.yaml
@@ -336,6 +357,8 @@ category-ntp@cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta
 category-number-verification-cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-number-verification-cn.yaml
 category-olympiad-in-informatics: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-olympiad-in-informatics.yaml
 category-orgs: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-orgs.yaml
+category-outsource-cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-outsource-cn.yaml
+category-password-management: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-password-management.yaml
 category-payment-ir: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-payment-ir.yaml
 category-porn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-porn.yaml
 category-porn@ads: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-porn@ads.yaml
@@ -358,10 +381,15 @@ category-social-media-cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules
 category-social-media-cn@!cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-social-media-cn@!cn.yaml
 category-social-media-cn@ads: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-social-media-cn@ads.yaml
 category-social-media-ir: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-social-media-ir.yaml
+category-speedtest: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-speedtest.yaml
+category-speedtest@!cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-speedtest@!cn.yaml
+category-speedtest@ads: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-speedtest@ads.yaml
+category-speedtest@cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-speedtest@cn.yaml
 category-tech-ir: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-tech-ir.yaml
 category-tech-media: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-tech-media.yaml
 category-tech-media@cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-tech-media@cn.yaml
 category-travel-ir: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-travel-ir.yaml
+category-voip: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-voip.yaml
 category-vpnservices: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-vpnservices.yaml
 category-wiki-cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-wiki-cn.yaml
 cavporn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cavporn.yaml
@@ -381,6 +409,7 @@ cheetahmobile: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/g
 chegg: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/chegg.yaml
 chinabroadnet: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/chinabroadnet.yaml
 chinamobile: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/chinamobile.yaml
+chinamobile@!cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/chinamobile@!cn.yaml
 chinanews: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/chinanews.yaml
 chinapower: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/chinapower.yaml
 chinaso: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/chinaso.yaml
@@ -433,6 +462,7 @@ comodo: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geos
 connectivity-check: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/connectivity-check.yaml
 contentful: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/contentful.yaml
 coolapk: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/coolapk.yaml
+copymanga: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/copymanga.yaml
 corel: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/corel.yaml
 costco: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/costco.yaml
 coupang: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/coupang.yaml
@@ -470,10 +500,12 @@ deepseek: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/ge
 dell: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/dell.yaml
 dell@cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/dell@cn.yaml
 demonoid: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/demonoid.yaml
+deppon: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/deppon.yaml
 deribit: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/deribit.yaml
 dettol: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/dettol.yaml
 dettol@cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/dettol@cn.yaml
 deviantart: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/deviantart.yaml
+dewu: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/dewu.yaml
 dgtle: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/dgtle.yaml
 dida365: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/dida365.yaml
 didi: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/didi.yaml
@@ -488,6 +520,7 @@ discord: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geo
 discoveryplus: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/discoveryplus.yaml
 discuz: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/discuz.yaml
 disney: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/disney.yaml
+disney@ads: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/disney@ads.yaml
 disqus: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/disqus.yaml
 divar: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/divar.yaml
 dji: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/dji.yaml
@@ -547,6 +580,7 @@ emojipedia: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/
 enfa: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/enfa.yaml
 entermediadb: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/entermediadb.yaml
 entrust: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/entrust.yaml
+entrust@cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/entrust@cn.yaml
 epicbrowser: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/epicbrowser.yaml
 epicgames: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/epicgames.yaml
 epicgames@cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/epicgames@cn.yaml
@@ -554,6 +588,8 @@ epochmediagroup: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta
 erji: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/erji.yaml
 erolabs: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/erolabs.yaml
 escapefromtarkov: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/escapefromtarkov.yaml
+eset: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/eset.yaml
+eset@cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/eset@cn.yaml
 espn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/espn.yaml
 espressif: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/espressif.yaml
 esri: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/esri.yaml
@@ -577,12 +613,14 @@ faronics: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/ge
 fastlane: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/fastlane.yaml
 fastly: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/fastly.yaml
 faststone: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/faststone.yaml
+fcbox: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/fcbox.yaml
 fedora: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/fedora.yaml
 feedly: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/feedly.yaml
 feishu: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/feishu.yaml
 fengxing: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/fengxing.yaml
 fflogs: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/fflogs.yaml
 fflogs@cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/fflogs@cn.yaml
+fibank: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/fibank.yaml
 figma: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/figma.yaml
 filimo: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/filimo.yaml
 finish: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/finish.yaml
@@ -603,6 +641,7 @@ fonts: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosi
 fontshop: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/fontshop.yaml
 fontsinuse: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/fontsinuse.yaml
 forbes: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/forbes.yaml
+forza: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/forza.yaml
 foundertype: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/foundertype.yaml
 fox: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/fox.yaml
 fqnovel: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/fqnovel.yaml
@@ -613,6 +652,7 @@ ft: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/
 ftv: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/ftv.yaml
 fzdm: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/fzdm.yaml
 gamersky: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/gamersky.yaml
+gamersky@ads: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/gamersky@ads.yaml
 gandi: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/gandi.yaml
 ganji: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/ganji.yaml
 gannett: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/gannett.yaml
@@ -661,9 +701,11 @@ google-registry-tld: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/
 google-scholar: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/google-scholar.yaml
 google-trust-services: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/google-trust-services.yaml
 google-trust-services@cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/google-trust-services@cn.yaml
+google@!cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/google@!cn.yaml
 google@ads: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/google@ads.yaml
 google@cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/google@cn.yaml
 googlefcm: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/googlefcm.yaml
+googlefcm@!cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/googlefcm@!cn.yaml
 goproxy: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/goproxy.yaml
 gracg: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/gracg.yaml
 gravatar: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/gravatar.yaml
@@ -713,6 +755,7 @@ homebrew: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/ge
 homedepot: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/homedepot.yaml
 hongdunwang: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/hongdunwang.yaml
 hongkongpost: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/hongkongpost.yaml
+honor: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/honor.yaml
 hooligapps: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/hooligapps.yaml
 hotjar-ads: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/hotjar-ads.yaml
 hotjar-ads@ads: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/hotjar-ads@ads.yaml
@@ -735,6 +778,7 @@ huaweicloud@!cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta
 hubblephone: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/hubblephone.yaml
 huffpost: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/huffpost.yaml
 hugecore: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/hugecore.yaml
+huggingface: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/huggingface.yaml
 hujiang: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/hujiang.yaml
 hulu: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/hulu.yaml
 hunantv: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/hunantv.yaml
@@ -754,6 +798,7 @@ icloud: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geos
 icloud@cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/icloud@cn.yaml
 icloudprivaterelay: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/icloudprivaterelay.yaml
 identrust: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/identrust.yaml
+idg: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/idg.yaml
 ieee: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/ieee.yaml
 ifanr: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/ifanr.yaml
 ifast: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/ifast.yaml
@@ -790,6 +835,7 @@ intel: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosi
 intel-dev: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/intel-dev.yaml
 intel@cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/intel@cn.yaml
 intercom: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/intercom.yaml
+intsig: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/intsig.yaml
 ipip: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/ipip.yaml
 ipip@!cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/ipip@!cn.yaml
 iqiyi: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/iqiyi.yaml
@@ -798,8 +844,11 @@ iqiyi-ads@ads: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/g
 iqiyi@!cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/iqiyi@!cn.yaml
 iqiyi@ads: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/iqiyi@ads.yaml
 isgd: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/isgd.yaml
+ishumei: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/ishumei.yaml
+itchio: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/itchio.yaml
 itunes: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/itunes.yaml
 itunes@cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/itunes@cn.yaml
+ixsystems: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/ixsystems.yaml
 iyf: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/iyf.yaml
 j-test: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/j-test.yaml
 jable: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/jable.yaml
@@ -831,6 +880,7 @@ jlc: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite
 johren: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/johren.yaml
 jquery: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/jquery.yaml
 jsdelivr: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/jsdelivr.yaml
+jtexpress: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/jtexpress.yaml
 juejin: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/juejin.yaml
 jushuitan: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/jushuitan.yaml
 justav: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/justav.yaml
@@ -852,6 +902,7 @@ kindle4rss: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/
 kindle@cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/kindle@cn.yaml
 kingkonglive: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/kingkonglive.yaml
 kingsoft: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/kingsoft.yaml
+kinopub: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/kinopub.yaml
 kkbox: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/kkbox.yaml
 kktv: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/kktv.yaml
 knovel: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/knovel.yaml
@@ -860,6 +911,7 @@ konachan: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/ge
 koolearn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/koolearn.yaml
 kraken: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/kraken.yaml
 ku6: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/ku6.yaml
+kuaidi100: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/kuaidi100.yaml
 kuaikan: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/kuaikan.yaml
 kuaishou: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/kuaishou.yaml
 kuaishou-ads: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/kuaishou-ads.yaml
@@ -885,6 +937,7 @@ laracasts: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/g
 lark: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/lark.yaml
 lark-global: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/lark-global.yaml
 lastfm: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/lastfm.yaml
+lastpass: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/lastpass.yaml
 launchpad: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/launchpad.yaml
 lavteam: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/lavteam.yaml
 ldmnq: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/ldmnq.yaml
@@ -912,6 +965,7 @@ linkedin: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/ge
 linkedin@cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/linkedin@cn.yaml
 linotype: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/linotype.yaml
 linux: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/linux.yaml
+linuxdo: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/linuxdo.yaml
 lisiku: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/lisiku.yaml
 litv: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/litv.yaml
 lizhi: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/lizhi.yaml
@@ -923,6 +977,7 @@ londonreal: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/
 longbridge: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/longbridge.yaml
 lowiro: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/lowiro.yaml
 ltn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/ltn.yaml
+lumion: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/lumion.yaml
 lysol: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/lysol.yaml
 lysol@cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/lysol@cn.yaml
 madshi: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/madshi.yaml
@@ -951,6 +1006,7 @@ mediachinesegroup: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/me
 medium: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/medium.yaml
 meduza: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/meduza.yaml
 mega: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/mega.yaml
+meipian: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/meipian.yaml
 meitu: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/meitu.yaml
 meituan: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/meituan.yaml
 meizu: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/meizu.yaml
@@ -1007,8 +1063,10 @@ movefree@cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo
 moxing: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/moxing.yaml
 mozilla: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/mozilla.yaml
 mpv: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/mpv.yaml
+msi: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/msi.yaml
 msn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/msn.yaml
 msn@cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/msn@cn.yaml
+mubi: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/mubi.yaml
 mucinex: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/mucinex.yaml
 mudvod: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/mudvod.yaml
 muji: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/muji.yaml
@@ -1023,6 +1081,7 @@ myfonts: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geo
 myradio: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/myradio.yaml
 mytvsuper: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/mytvsuper.yaml
 mzed: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/mzed.yaml
+n26: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/n26.yaml
 n3ro: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/n3ro.yaml
 narwal: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/narwal.yaml
 nat-test: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/nat-test.yaml
@@ -1039,6 +1098,7 @@ netflav: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geo
 netflix: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/netflix.yaml
 netlify: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/netlify.yaml
 neuralink: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/neuralink.yaml
+newegg: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/newegg.yaml
 newrelic-ads: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/newrelic-ads.yaml
 newrelic-ads@ads: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/newrelic-ads@ads.yaml
 newscorp: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/newscorp.yaml
@@ -1080,6 +1140,7 @@ ogury-ads@ads: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/g
 ok: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/ok.yaml
 okaapps: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/okaapps.yaml
 okaapps@cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/okaapps@cn.yaml
+okjike: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/okjike.yaml
 okx: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/okx.yaml
 okx@cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/okx@cn.yaml
 olevod: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/olevod.yaml
@@ -1100,6 +1161,7 @@ opencollective: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/
 openjsfoundation: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/openjsfoundation.yaml
 openjsfoundation@cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/openjsfoundation@cn.yaml
 opensourceinsights: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/opensourceinsights.yaml
+openspeedtest: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/openspeedtest.yaml
 openstreetmap: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/openstreetmap.yaml
 openweather: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/openweather.yaml
 openwrt: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/openwrt.yaml
@@ -1163,6 +1225,7 @@ pocketcasts: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo
 pocoiq-ads: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/pocoiq-ads.yaml
 pocoiq-ads@ads: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/pocoiq-ads@ads.yaml
 poe: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/poe.yaml
+polocloud: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/polocloud.yaml
 polymer: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/polymer.yaml
 polyv: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/polyv.yaml
 pornhub: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/pornhub.yaml
@@ -1239,6 +1302,7 @@ roborock: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/ge
 rockstar: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/rockstar.yaml
 roku: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/roku.yaml
 rsshub: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/rsshub.yaml
+rsshub-3rd: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/rsshub-3rd.yaml
 rthk: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/rthk.yaml
 ruanmei: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/ruanmei.yaml
 ruby: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/ruby.yaml
@@ -1248,8 +1312,10 @@ rumble: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geos
 rust: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/rust.yaml
 ruten: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/ruten.yaml
 rutracker: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/rutracker.yaml
+sakurafrp: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/sakurafrp.yaml
 salesforce: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/salesforce.yaml
 samsung: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/samsung.yaml
+samsung@ads: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/samsung@ads.yaml
 samsung@cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/samsung@cn.yaml
 sankei: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/sankei.yaml
 sb: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/sb.yaml
@@ -1324,6 +1390,7 @@ soundcloud: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/
 soundofhope: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/soundofhope.yaml
 sourceforge: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/sourceforge.yaml
 sourcehut: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/sourcehut.yaml
+soyjakparty: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/soyjakparty.yaml
 spacemail: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/spacemail.yaml
 spaceship: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/spaceship.yaml
 spacex: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/spacex.yaml
@@ -1357,6 +1424,7 @@ steam: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosi
 steam@cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/steam@cn.yaml
 steamunlocked: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/steamunlocked.yaml
 steemit: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/steemit.yaml
+sto-express: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/sto-express.yaml
 streamable: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/streamable.yaml
 strepsils: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/strepsils.yaml
 strepsils@cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/strepsils@cn.yaml
@@ -1378,6 +1446,7 @@ swift@cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/ge
 swisssign: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/swisssign.yaml
 sxl: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/sxl.yaml
 symantec: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/symantec.yaml
+symantec-pki: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/symantec-pki.yaml
 synology: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/synology.yaml
 synology@cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/synology@cn.yaml
 taboola: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/taboola.yaml
@@ -1385,6 +1454,7 @@ tagtic-ads: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/
 tagtic-ads@ads: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/tagtic-ads@ads.yaml
 taikang: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/taikang.yaml
 tailscale: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/tailscale.yaml
+talkatone: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/talkatone.yaml
 taomee: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/taomee.yaml
 tappx-ads: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/tappx-ads.yaml
 tappx-ads@ads: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/tappx-ads@ads.yaml
@@ -1394,6 +1464,7 @@ taylorfrancis: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/g
 teambition: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/teambition.yaml
 teamviewer: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/teamviewer.yaml
 teamviewer@cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/teamviewer@cn.yaml
+techpowerup: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/techpowerup.yaml
 techtimes: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/techtimes.yaml
 ted: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/ted.yaml
 telegram: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/telegram.yaml
@@ -1458,6 +1529,7 @@ tracker: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geo
 trackernetwork: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/trackernetwork.yaml
 translatewiki: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/translatewiki.yaml
 trello: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/trello.yaml
+trustwallet: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/trustwallet.yaml
 trustwave: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/trustwave.yaml
 truyen-hentai: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/truyen-hentai.yaml
 tsquare: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/tsquare.yaml
@@ -1500,6 +1572,7 @@ unity-ads: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/g
 unity-ads@ads: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/unity-ads@ads.yaml
 unity@ads: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/unity@ads.yaml
 upai: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/upai.yaml
+usersdrive: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/usersdrive.yaml
 uu-chat: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/uu-chat.yaml
 v2ray: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/v2ray.yaml
 v8: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/v8.yaml
@@ -1511,6 +1584,7 @@ veet: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosit
 veet@cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/veet@cn.yaml
 vercel: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/vercel.yaml
 verisign: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/verisign.yaml
+verisign-pki: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/verisign-pki.yaml
 verizon: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/verizon.yaml
 verizon@ads: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/verizon@ads.yaml
 verizon@cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/verizon@cn.yaml
@@ -1535,8 +1609,10 @@ volvo: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosi
 volvo@cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/volvo@cn.yaml
 voxmedia: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/voxmedia.yaml
 vpngate: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/vpngate.yaml
+vrzwk: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/vrzwk.yaml
 vultr: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/vultr.yaml
 w3schools: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/w3schools.yaml
+wallhaven: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/wallhaven.yaml
 walmart: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/walmart.yaml
 walmart@cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/walmart@cn.yaml
 wanfang: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/wanfang.yaml
@@ -1590,6 +1666,7 @@ xbox@cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geo
 xd: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/xd.yaml
 xda: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/xda.yaml
 xdty: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/xdty.yaml
+xedge: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/xedge.yaml
 xhamster: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/xhamster.yaml
 xhamster-ads: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/xhamster-ads.yaml
 xhamster-ads@ads: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/xhamster-ads@ads.yaml
@@ -1633,10 +1710,12 @@ youquan: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geo
 youtube: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/youtube.yaml
 youtube@cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/youtube@cn.yaml
 youzan: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/youzan.yaml
+yto-express: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/yto-express.yaml
 yuanbei: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/yuanbei.yaml
 yuanfudao: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/yuanfudao.yaml
 yuewen: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/yuewen.yaml
 yuketang: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/yuketang.yaml
+yundaex: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/yundaex.yaml
 yunfanjiasu: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/yunfanjiasu.yaml
 yunlaopo: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/yunlaopo.yaml
 yy: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/yy.yaml
@@ -1659,6 +1738,7 @@ zoho: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosit
 zoom: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/zoom.yaml
 zte: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/zte.yaml
 zte@!cn: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/zte@!cn.yaml
+zto-express: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/zto-express.yaml
 zuoyebang: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/zuoyebang.yaml
 zynga-ads: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/zynga-ads.yaml
 zynga-ads@ads: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/zynga-ads@ads.yaml
