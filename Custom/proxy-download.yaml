@@ -1,10 +1,11 @@
 payload:
+  - '+.cloudfront.net'
   - '+.gofile.io'
   - '+.huggingface.co'
   - '+.imoutoheaven.org'
-  - '+.openrec.tv'
   - '+.kiko-play-niptan.one'
   - '+.lokernyaindo.eu.org'
+  - '+.openrec.tv'
   - '+.r2.cloudflarestorage.com'
   - '+.s3.amazonaws.com'
   - 'bacon.bunkr.ru'
