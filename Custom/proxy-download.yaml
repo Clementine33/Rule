@@ -8,6 +8,7 @@ payload:
   - '+.openrec.tv'
   - '+.r2.cloudflarestorage.com'
   - '+.s3.amazonaws.com'
+  - '+.terabox.com'
   - 'bacon.bunkr.ru'
   - 'cdn-lfs-us-1.hf.co'
   - 'download.pytorch.org'
