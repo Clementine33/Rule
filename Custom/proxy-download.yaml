@@ -15,6 +15,7 @@ payload:
   - 'drive.google.com'
   - 'drive.usercontent.google.com'
   - 'objects.githubusercontent.com'
+  - 'pkg-containers.githubusercontent.com'
   - 'prod-clientpatch.bluearchiveyostar.com'
   - 'pypi.org'
   - 'release-assets.githubusercontent.com'
