@@ -17,5 +17,6 @@ payload:
   - 'objects.githubusercontent.com'
   - 'prod-clientpatch.bluearchiveyostar.com'
   - 'pypi.org'
+  - 'release-assets.githubusercontent.com'
   - 'repo.anaconda.com'
   - 'tousakaworker.pua.edu.eu.org'

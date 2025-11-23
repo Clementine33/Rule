@@ -1,3 +1,9 @@
 payload:
-  # - '+.asmrconnecting.xyz'
   - '+.prod.dl.playstation.net'
+  - 'cdn.jsdelivr.net'
+  - 'docker.1ms.run'
+  - 'docker.1panel.live'
+  - 'docker.xuanyuan.me'
+  - 'fastly.jsdelivr.net'
+  - 'testingcf.jsdelivr.net'
+  - 'xget.xi-xu.me'
