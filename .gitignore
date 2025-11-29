@@ -1,8 +1,9 @@
 .python-version
-.venv\
-geo_query.py
-query.py
+.venv/
 pyproject.toml
 requirements*
-sort-yaml.py
 *.lock
+geo_query.py
+query.py
+sort-yaml.py
+Mihomo/
