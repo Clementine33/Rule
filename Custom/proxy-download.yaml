@@ -11,6 +11,7 @@ payload:
   - '+.terabox.com'
   - 'bacon.bunkr.ru'
   - 'cdn-lfs-us-1.hf.co'
+  - 'conda.anaconda.org'
   - 'download.dlsite.com'
   - 'download.pytorch.org'
   - 'drive.google.com'
@@ -22,3 +23,4 @@ payload:
   - 'release-assets.githubusercontent.com'
   - 'repo.anaconda.com'
   - 'tousakaworker.pua.edu.eu.org'
+  - 'transfer.xethub.hf.co'
