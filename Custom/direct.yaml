@@ -5,6 +5,7 @@ payload:
   - 'docker.1panel.live'
   - 'docker.xuanyuan.me'
   - 'fastly.jsdelivr.net'
+  - 'hf-mirror.com'
   - 'linkcube.org'
   - 'testingcf.jsdelivr.net'
   - 'xget.xi-xu.me'
