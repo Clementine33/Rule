@@ -9,6 +9,7 @@ payload:
   - '+.r2.cloudflarestorage.com'
   - '+.s3.amazonaws.com'
   - '+.terabox.com'
+  - 'b2.civitai.com'
   - 'bacon.bunkr.ru'
   - 'cdn-lfs-us-1.hf.co'
   - 'conda.anaconda.org'
