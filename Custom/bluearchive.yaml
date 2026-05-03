@@ -2,5 +2,6 @@ payload:
   - '+.bluearchive.jp'
   - '+.bluearchiveyostar.com'
   - '+.yo-star.com'
+  - 'jp-sdk-api.yostarplat.com'
   - 'yostar-oversea-client-logging.ap-southeast-1.log.aliyuncs.com'
   - 'yostar-oversea-netsdk-logging.ap-southeast-1.log.aliyuncs.com'
