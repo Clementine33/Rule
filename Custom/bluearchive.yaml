@@ -1,0 +1,9 @@
+payload:
+  # - 'api.ipify.org'
+  - '+.bluearchive.jp'
+  - '+.bluearchiveyostar.com'
+  - '+.yo-star.com'
+  - 'yostar-oversea-netsdk-logging.ap-southeast-1.log.aliyuncs.com'
+  - 'yostar-oversea-client-logging.ap-southeast-1.log.aliyuncs.com'
+  # - 'm-api.nexon.com'
+  # - 'public.api.nexon.com'
