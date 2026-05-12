@@ -1,0 +1,6 @@
+payload:
+  - '+.services.googleapis.cn'
+  - '+.play.googleapis.com'
+  - 'connectivitycheck.gstatic.com'
+  - '+.android.clients.google.com'
+  - '+.xn--ngstr-lra8j.com'
