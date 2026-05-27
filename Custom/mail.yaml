@@ -1,0 +1,5 @@
+payload:
+  - '.mail.me.com'
+  - 'imap.gmail.com'
+  - 'pop.gmail.com'
+  - 'smtp.gmail.com'
