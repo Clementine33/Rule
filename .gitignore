@@ -3,7 +3,7 @@
 pyproject.toml
 requirements*
 *.lock
-geo_query.py
 query.py
 sort-yaml.py
 Mihomo
+.prettierrc
