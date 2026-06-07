@@ -1,6 +1,7 @@
 payload:
   - '+.prod.dl.playstation.net'
   - 'cdn.jsdelivr.net'
+  - 'developer.nvidia.com'
   - 'docker.1ms.run'
   - 'docker.1panel.live'
   - 'docker.xuanyuan.me'
