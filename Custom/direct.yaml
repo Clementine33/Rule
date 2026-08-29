@@ -1,5 +1,6 @@
 payload:
   - '+.prod.dl.playstation.net'
+  - 'api-linkcube.dev'
   - 'cdn.jsdelivr.net'
   - 'developer.nvidia.com'
   - 'docker.1ms.run'
@@ -7,9 +8,9 @@ payload:
   - 'docker.xuanyuan.me'
   - 'fastly.jsdelivr.net'
   - 'hf-mirror.com'
+  - 'image.api.playstation.com'
   - 'linkcube.org'
   - 'ms1.mshp.shop'
   - 'srv.suu-fun.com'
   - 'testingcf.jsdelivr.net'
   - 'xget.xi-xu.me'
-  - 'api-linkcube.dev'
