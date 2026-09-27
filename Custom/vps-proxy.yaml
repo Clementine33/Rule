@@ -1,5 +1,6 @@
 payload:
   - '.gmail.com'
+  - 'api.cline.bot'
   - 'api.commandcode.ai'
   - 'opencode.ai'
   - 'outlook.office365.com'
